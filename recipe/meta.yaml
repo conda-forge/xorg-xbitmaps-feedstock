@@ -1,8 +1,8 @@
 {% set xorg_name = "xbitmaps" %}
 {% set xorg_category = "data" %}
 {% set name = "xorg-" ~ xorg_name %}
-{% set version = "1.1.1" %}
-{% set sha256 = "3671b034356bbc4d32d052808cf646c940ec8b2d1913adac51b1453e41aa1e9d" %}
+{% set version = "1.1.2" %}
+{% set sha256 = "b9f0c71563125937776c8f1f25174ae9685314cbd130fb4c2efce811981e07ee" %}
 {% set am_version = "1.15" %} # keep synchronized with build.sh
 
 package:
